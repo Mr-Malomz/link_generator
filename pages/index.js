@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import styles from '../styles/Home.module.css';
 import { withPageAuthRequired } from '@auth0/nextjs-auth0';
 
-export default function Home({user}) {
+export default function Home({ user }) {
   const [url, setURL] = useState(null);
   const [copy, setCopy] = useState('Copy File');
 
