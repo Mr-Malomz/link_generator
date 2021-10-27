@@ -1,4 +1,4 @@
-# link_generatot
+# link_generator
 
 A demo project on how to build a personalized and secure link sharing application using Cloudinary, Auth0, and Next.js.
 
